@@ -1,5 +1,2 @@
 print('hello world')
 print(4)
-value = input('Enter a number : ')
-# value = int(value)
-print(f'the value entered is : {value}')
